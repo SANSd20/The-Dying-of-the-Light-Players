@@ -21,6 +21,14 @@ Later 5e material can be used when it is intentionally part of the campaign, but
 - The campaign uses **milestone advancement**.
 - Characters do not roll for hit points when gaining levels. Use the class's **fixed hit-point increase**.
 
+## Starting Equipment
+
+Level 5 characters begin with:
+
+- normal class and background starting equipment;
+- **500 gp + 1d10 × 25 gp**;
+- **one uncommon magic item chosen by the player**.
+
 ## Ability Scores
 
 Use **point buy**.
