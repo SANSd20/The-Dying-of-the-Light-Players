@@ -11,6 +11,22 @@ Characters begin at **5th level** and use the **2014 D&D 5th Edition rules basel
 
 **Official 2014-era D&D 5e material appropriate to the Forgotten Realms is allowed.** Setting-specific material from other settings—such as *Dragonlance* or *Spelljammer*—is not part of the normal character-creation pool.
 
+## Approved Character Sources
+
+- *Player's Handbook* (2014)
+- *Sword Coast Adventurer's Guide*
+- *Elemental Evil Player's Companion*
+- *Volo's Guide to Monsters*
+- *Xanathar's Guide to Everything*
+- *Mordenkainen's Tome of Foes*
+- *Tasha's Cauldron of Everything*
+- *Mordenkainen Presents: Monsters of the Multiverse*
+- *Waterdeep: Dragon Heist* — player character options
+
+*Baldur's Gate: Descent into Avernus* is a campaign/adventure source, but it is **not** part of the normal player character-creation source list.
+
+If you are unsure whether a D&D Beyond option comes from an approved source, ask the DM.
+
 ## Start With the Character
 
 Start with the character you want to play rather than trying to reverse-engineer a character for the campaign plot.
