@@ -73,6 +73,10 @@ The campaign uses the normal **2014 rest rules**:
 - **Long Rest:** at least 8 hours.
 - Normal 2014 rules for spending Hit Dice, recovering hit points, recovering Hit Dice, and regaining class resources apply unless a more specific rule says otherwise.
 
+## Attunement
+
+Unless a more specific campaign rule says otherwise, use the normal **2014 attunement rules**, including the normal limit on the number of magic items a character can be attuned to at one time.
+
 ## Magic Item Identification
 
 The campaign uses the 2014 DMG's **More Difficult Identification** approach rather than automatically learning a magic item's properties by focusing on it during a short rest.
