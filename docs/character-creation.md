@@ -27,6 +27,10 @@ Characters begin at **5th level** and use the **2014 D&D 5th Edition rules basel
 
 If you are unsure whether a D&D Beyond option comes from an approved source, ask the DM.
 
+## Ability Scores
+
+Use **point buy** for ability scores.
+
 ## Start With the Character
 
 Start with the character you want to play rather than trying to reverse-engineer a character for the campaign plot.
