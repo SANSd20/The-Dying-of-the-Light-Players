@@ -34,7 +34,7 @@ Use **point buy** for ability scores.
 ## Hit Points and Encumbrance
 
 - **Do not roll for hit points when gaining levels.** Use the fixed hit-point increase for the character's class instead.
-- **Encumbrance matters.** Track what the character is carrying and the applicable carrying limits.
+- **Encumbrance matters.** The campaign uses the 2014 **Variant: Encumbrance** rules. Track what the character is carrying and the applicable encumbrance thresholds.
 
 ## Start With the Character
 
