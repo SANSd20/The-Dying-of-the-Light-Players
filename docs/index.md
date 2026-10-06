@@ -80,11 +80,7 @@ The campaign also uses Discord for some between-session communication and charac
 
 ## Rules and Character Sheets
 
-The campaign's rules baseline is **D&D 5th Edition (2014)**.
-
-Official material from later 5e books may still be used when it is intentionally part of the campaign, but newer 2024 rules should not silently replace the 2014 versions.
-
-In particular, D&D Beyond can sometimes display 2024 mechanics on otherwise 2014 characters. If a sheet shows something unexpected, check with the DM rather than assuming the newer version applies.
+The campaign's rules baseline is **D&D 5th Edition (2014)**. See the [Campaign Rules](campaign-rules.md) page for the table-facing rules currently established for this campaign.
 
 ## Guide Pages
 
