@@ -81,6 +81,7 @@ If there is material you do not want included at the table, tell the DM. You can
 - Sessions are normally held on the **second and fourth Thursday of each month**.
 - Sessions begin at **6:00 PM** and normally end between **8:00 and 8:30 PM**.
 - The table currently has a relatively large group, so sharing the spotlight and helping keep play moving are important.
+- Attendance and cancellations are handled **case by case**; there is currently no fixed minimum-player rule.
 
 The campaign also uses Discord for some between-session communication and character roleplay when appropriate. Between-session roleplay can establish character choices and played events, but it is not a requirement that every character constantly participate outside normal sessions.
 
