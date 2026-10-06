@@ -32,6 +32,12 @@ If you are unsure whether a D&D Beyond option comes from an approved source, ask
 - **Feats are allowed.**
 - **Multiclassing is allowed.**
 
+## Backgrounds
+
+Players may customize backgrounds using the **2014 Player's Handbook background-customization rules**. Published backgrounds can also be used as written.
+
+No current pre-Session-1 character is assumed to have customized a background unless that character's player has actually done so.
+
 ## Ability Scores
 
 Use **point buy** for ability scores.
