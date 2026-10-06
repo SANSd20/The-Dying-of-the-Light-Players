@@ -48,6 +48,14 @@ The campaign uses the 2014 **Variant: Encumbrance** rules.
 
 Track carried weight and the applicable encumbrance thresholds.
 
+## Rests
+
+The campaign uses the normal **2014 rest rules**:
+
+- **Short Rest:** at least 1 hour.
+- **Long Rest:** at least 8 hours.
+- Normal 2014 rules for spending Hit Dice, recovering hit points, recovering Hit Dice, and regaining class resources apply unless a more specific rule says otherwise.
+
 ## Optional Combat Rules
 
 - **Flanking:** used.
