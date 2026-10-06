@@ -27,6 +27,10 @@ Characters begin at **5th level** and use the **2014 D&D 5th Edition rules basel
 
 If you are unsure whether a D&D Beyond option comes from an approved source, ask the DM.
 
+## Tasha's Optional Class Features
+
+The **Optional Class Features** from *Tasha's Cauldron of Everything* are allowed.
+
 ## Feats and Multiclassing
 
 - **Feats are allowed.**
