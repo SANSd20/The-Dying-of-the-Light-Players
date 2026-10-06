@@ -60,6 +60,11 @@ The campaign uses the normal **2014 rest rules**:
 - **Long Rest:** at least 8 hours.
 - Normal 2014 rules for spending Hit Dice, recovering hit points, recovering Hit Dice, and regaining class resources apply unless a more specific rule says otherwise.
 
+## Potions
+
+- A character may **drink a potion themselves as a bonus action**.
+- **Administering a potion to another creature remains an action**.
+
 ## Death and Dying
 
 The campaign uses the normal **2014 death and dying rules**, including dropping to 0 hit points, death saving throws, stabilization, damage while at 0 hit points, instant death, and regaining consciousness through healing.
