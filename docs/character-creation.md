@@ -61,6 +61,10 @@ The chosen uncommon magic item should be compatible with the campaign's allowed 
 - **Do not roll for hit points when gaining levels.** Use the fixed hit-point increase for the character's class instead.
 - **Encumbrance matters.** The campaign uses the 2014 **Variant: Encumbrance** rules. Track what the character is carrying and the applicable encumbrance thresholds.
 
+## Rules Summary
+
+For campaign-wide rules such as rests, Inspiration, encumbrance, optional combat rules, and other table rulings, see [Campaign Rules](campaign-rules.md).
+
 ## Start With the Character
 
 Start with the character you want to play rather than trying to reverse-engineer a character for the campaign plot.
