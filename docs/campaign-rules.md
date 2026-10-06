@@ -18,6 +18,7 @@ The most important departures from the normal 2014 rules currently established a
 - **Variant: Encumbrance:** used.
 - **Flanking, Overrun, and Shove Aside:** used.
 - **Facing and Mark:** not used.
+- **Magic item identification:** uses the more difficult identification approach.
 
 Full details appear below.
 
@@ -71,6 +72,12 @@ The campaign uses the normal **2014 rest rules**:
 - **Short Rest:** at least 1 hour.
 - **Long Rest:** at least 8 hours.
 - Normal 2014 rules for spending Hit Dice, recovering hit points, recovering Hit Dice, and regaining class resources apply unless a more specific rule says otherwise.
+
+## Magic Item Identification
+
+The campaign uses the 2014 DMG's **More Difficult Identification** approach rather than automatically learning a magic item's properties by focusing on it during a short rest.
+
+Characters may need to use the *identify* spell, experimentation, research, or other appropriate means to learn an item's properties.
 
 ## Potions
 
