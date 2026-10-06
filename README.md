@@ -8,7 +8,7 @@ The guide is intentionally spoiler-safe. DM-only campaign development, hidden hi
 
 **Pre-Session 1**
 
-The player guide is currently being developed for campaign onboarding.
+The player guide is being developed as the table's ongoing, spoiler-safe campaign reference.
 
 ## Rules baseline
 
@@ -18,6 +18,6 @@ The player guide is currently being developed for campaign onboarding.
 
 ## About the campaign
 
-*The Dying of the Light* continues from a completed *Waterdeep: Dragon Heist* campaign, but new players do **not** need to have played that campaign.
+*The Dying of the Light* continues from a completed *Waterdeep: Dragon Heist* campaign and is expected to take the party to **Avernus, the first layer of the Nine Hells**.
 
-The full player-facing campaign guide will be published from this repository.
+This repository is for information safe for the entire player table. DM-only history, secrets, future developments, and encounter preparation remain in the separate campaign repository.
