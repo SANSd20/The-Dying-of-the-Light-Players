@@ -75,6 +75,22 @@ The campaign may include death, devils, infernal themes, supernatural horror, di
 
 If there is material you do not want included at the table, tell the DM. You can do so privately.
 
+## At the Table
+
+- Sessions are **in person** at a local library.
+- A normal session is approximately **2 hours**.
+- The table currently has a relatively large group, so sharing the spotlight and helping keep play moving are important.
+
+The campaign also uses Discord for some between-session communication and character roleplay when appropriate. Between-session roleplay can establish character choices and played events, but it is not a requirement that every character constantly participate outside normal sessions.
+
+## Rules and Character Sheets
+
+The campaign's rules baseline is **D&D 5th Edition (2014)**.
+
+Official material from later 5e books may still be used when it is intentionally part of the campaign, but newer 2024 rules should not silently replace the 2014 versions.
+
+In particular, D&D Beyond can sometimes display 2024 mechanics on otherwise 2014 characters. If a sheet shows something unexpected, check with the DM rather than assuming the newer version applies.
+
 ## Before Session 1
 
 The campaign has not yet begun. Characters other than returning survivor Ida should not be assumed to have met, joined a party, or participated in campaign events until those things actually happen in play.
