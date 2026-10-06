@@ -9,7 +9,7 @@ title: Character Creation
 
 Characters begin at **5th level** and use the **2014 D&D 5th Edition rules baseline**.
 
-**All official 2014-era D&D 5e material is allowed.**
+**Official 2014-era D&D 5e material appropriate to the Forgotten Realms is allowed.** Setting-specific material from other settings—such as *Dragonlance* or *Spelljammer*—is not part of the normal character-creation pool.
 
 ## Start With the Character
 
