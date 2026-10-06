@@ -25,9 +25,9 @@ She has begun investigating what happened.
 
 **Lupin Warlock 5 — Archfey — Pact of the Chain — Charlatan**
 
-Pip was formerly a spirit companion to Lia, a High Elf ranger from the previous adventuring company. Pip is now humanoid and seeks to recover Lia.
+Pip is a pre-campaign character being prepared for *The Dying of the Light*.
 
-Pip's conversion to the campaign's 2014 rules baseline is still being finalized. Unresolved details are intentionally not filled in here.
+Pip's conversion to the campaign's 2014 rules baseline is still being finalized. Personal motivations, relationships, and other player-specific information are intentionally not included in this shared guide.
 
 ## Ko'Maru
 
