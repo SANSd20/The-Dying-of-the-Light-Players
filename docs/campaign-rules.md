@@ -34,6 +34,10 @@ Level 5 characters begin with:
 - **500 gp + 1d10 × 25 gp**;
 - **one uncommon magic item chosen by the player**.
 
+## Backgrounds
+
+Players may use published backgrounds as written or customize a background using the **2014 Player's Handbook background-customization rules**.
+
 ## Ability Scores
 
 Use **point buy**.
