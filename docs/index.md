@@ -9,7 +9,7 @@ title: The Dying of the Light
 
 **Dungeons & Dragons 5th Edition — 2014 Rules**
 
-Welcome to *The Dying of the Light*. This campaign continues from the aftermath of a completed *Waterdeep: Dragon Heist* campaign, but **you do not need to have played the previous campaign** to join. What begins in Waterdeep as an attempt to understand a tragedy will uncover a larger mystery in which devils and infernal forces play an important role.
+Welcome to *The Dying of the Light*. This campaign continues from the aftermath of a completed *Waterdeep: Dragon Heist* campaign. What begins in Waterdeep as an attempt to understand a tragedy will uncover a larger mystery involving devils and infernal forces.
 
 The campaign begins at **5th level** and uses **milestone advancement**.
 
@@ -20,6 +20,7 @@ The campaign begins at **5th level** and uses **milestone advancement**.
 - **Advancement:** Milestone
 - **Starting location:** Waterdeep
 - **Campaign year:** 1492 DR
+- **Major destination:** Avernus, the first layer of the Nine Hells
 
 ### D&D Beyond
 
@@ -47,14 +48,6 @@ There was no explanation. Ida has begun trying to discover what happened.
 
 That is where *The Dying of the Light* begins.
 
-## Joining the Campaign
-
-Your character does **not** need to have played through *Dragon Heist*, known the previous adventuring company, have a connection to the Cassalanters, or already understand what happened.
-
-A new character can have an existing connection to someone involved, have an independent reason to become involved, or simply be drawn into events as the campaign begins.
-
-We will work out that connection after we know who your character is rather than requiring you to build around a predetermined plot hook.
-
 ## Creating Your Character
 
 Start with the character you actually want to play.
@@ -67,7 +60,7 @@ Character choices such as class, subclass, faith, background, relationships, mot
 
 ## Tone and Themes
 
-*The Dying of the Light* is heroic fantasy that can move into darker territory. Devils and infernal forces play an important role, but exactly how they are involved is part of the mystery.
+*The Dying of the Light* is heroic fantasy that can move into darker territory. The campaign is expected to take the party to **Avernus, the first layer of the Nine Hells**. The characters do not necessarily know that at the beginning; how and why the journey occurs is part of the story.
 
 Themes include **life, hope, dawn, renewal, loss, difficult choices, and refusing to surrender something merely because saving it is hard**.
 
@@ -98,11 +91,11 @@ In particular, D&D Beyond can sometimes display 2024 mechanics on otherwise 2014
 - [The Story So Far](story-so-far.md)
 - [Character Creation](character-creation.md)
 
-## Before Session 1
+## Campaign Status
 
-The campaign has not yet begun. Characters other than returning survivor Ida should not be assumed to have met, joined a party, or participated in campaign events until those things actually happen in play.
+**Pre-Session 1.** The campaign has not yet begun. Characters other than returning survivor Ida should not be assumed to have met, joined a party, or participated in campaign events until those things actually happen in play.
 
-There is still plenty of room to introduce a new character naturally.
+As sessions are played, this site can grow into the table's player-safe campaign reference for established characters, discoveries, locations, factions, recaps, handouts, and campaign rules.
 
 ---
 
