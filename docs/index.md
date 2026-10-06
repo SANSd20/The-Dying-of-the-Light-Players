@@ -88,6 +88,7 @@ The campaign's rules baseline is **D&D 5th Edition (2014)**. See the [Campaign R
 - [Character Creation](character-creation.md)
 - [Player Characters](player-characters.md)
 - [Campaign Rules](campaign-rules.md)
+- [Table Information](table-information.md)
 - [Campaign Recaps](recaps.md)
 - [Player Knowledge](player-knowledge.md)
 
