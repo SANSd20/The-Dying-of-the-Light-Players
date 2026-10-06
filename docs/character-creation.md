@@ -9,6 +9,8 @@ title: Character Creation
 
 Characters begin at **5th level** and use the **2014 D&D 5th Edition rules baseline**.
 
+**All official 2014-era D&D 5e material is allowed.**
+
 ## Start With the Character
 
 Start with the character you want to play rather than trying to reverse-engineer a character for the campaign plot.
