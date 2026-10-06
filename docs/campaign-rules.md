@@ -21,6 +21,11 @@ Later 5e material can be used when it is intentionally part of the campaign, but
 - The campaign uses **milestone advancement**.
 - Characters do not roll for hit points when gaining levels. Use the class's **fixed hit-point increase**.
 
+## Optional Character Rules
+
+- **Feats are allowed.**
+- **Multiclassing is allowed.**
+
 ## Starting Equipment
 
 Level 5 characters begin with:
