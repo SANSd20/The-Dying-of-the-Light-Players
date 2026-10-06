@@ -81,6 +81,12 @@ Character options use official 2014-era D&D 5e material appropriate to the Forgo
 
 See [Character Creation](character-creation.md) for the current approved source list.
 
+## Rules Not Otherwise Modified
+
+Unless this guide says otherwise, use the normal **2014 rules**. An optional or variant rule is not assumed to be in use merely because it appears in the *Dungeon Master's Guide* or another source.
+
+Rules still listed as **under consideration** are not active campaign rules until a decision is made.
+
 ## D&D Beyond and 2024 Material
 
 D&D Beyond may display 2024 mechanics or terminology on characters intended to use the 2014 rules.
