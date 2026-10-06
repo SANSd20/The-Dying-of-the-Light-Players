@@ -47,8 +47,13 @@ Track carried weight and the applicable encumbrance thresholds.
 ## Optional Combat Rules
 
 - **Flanking:** used.
+- **Overrun:** used.
+- **Shove Aside:** used.
 - **Facing:** not used.
-- Other optional combat actions/rules such as Disarm, Overrun, Shove Aside, Tumble, Mark, and Cleaving Through Creatures have **not yet been established** for this campaign.
+- **Mark:** not used.
+- **Disarm:** under consideration.
+- **Tumble:** under consideration.
+- **Cleaving Through Creatures:** under consideration for situational use rather than established as an always-on rule.
 
 ## Alignment
 
