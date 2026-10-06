@@ -31,6 +31,11 @@ If you are unsure whether a D&D Beyond option comes from an approved source, ask
 
 Use **point buy** for ability scores.
 
+## Hit Points and Encumbrance
+
+- **Do not roll for hit points when gaining levels.** Use the fixed hit-point increase for the character's class instead.
+- **Encumbrance matters.** Track what the character is carrying and the applicable carrying limits.
+
 ## Start With the Character
 
 Start with the character you want to play rather than trying to reverse-engineer a character for the campaign plot.
