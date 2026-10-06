@@ -60,6 +60,10 @@ The campaign uses the normal **2014 rest rules**:
 - **Long Rest:** at least 8 hours.
 - Normal 2014 rules for spending Hit Dice, recovering hit points, recovering Hit Dice, and regaining class resources apply unless a more specific rule says otherwise.
 
+## Death and Dying
+
+The campaign uses the normal **2014 death and dying rules**, including dropping to 0 hit points, death saving throws, stabilization, damage while at 0 hit points, instant death, and regaining consciousness through healing.
+
 ## Critical Hits
 
 The campaign uses a **max + roll** critical-hit rule instead of the normal 2014 doubled-dice method.
