@@ -9,6 +9,18 @@ title: Campaign Rules
 
 This page collects table-facing rules and character-creation standards for *The Dying of the Light*.
 
+## House Rules at a Glance
+
+The most important departures from the normal 2014 rules currently established are:
+
+- **Critical hits:** maximize one set of critical-hit damage dice and roll the other set.
+- **Self-use potions:** drinking your own potion is a bonus action; administering one to someone else remains an action.
+- **Variant: Encumbrance:** used.
+- **Flanking, Overrun, and Shove Aside:** used.
+- **Facing and Mark:** not used.
+
+Full details appear below.
+
 ## Rules Baseline
 
 The campaign uses **Dungeons & Dragons 5th Edition — 2014 rules**.
