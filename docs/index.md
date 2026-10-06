@@ -13,6 +13,12 @@ Welcome to *The Dying of the Light*. This campaign continues from the aftermath 
 
 The campaign begins at **5th level** and uses **milestone advancement**.
 
+## Site Purpose
+
+This site is the table's **shared, player-safe campaign reference**. Information here is safe for every player to read, but it is not automatically knowledge every player character possesses.
+
+DM-only secrets, future developments, encounter preparation, and unrevealed character information are kept elsewhere.
+
 ## Campaign Basics
 
 - **Starting level:** 5
