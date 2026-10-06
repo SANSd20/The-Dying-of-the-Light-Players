@@ -60,6 +60,21 @@ The campaign uses the normal **2014 rest rules**:
 - **Long Rest:** at least 8 hours.
 - Normal 2014 rules for spending Hit Dice, recovering hit points, recovering Hit Dice, and regaining class resources apply unless a more specific rule says otherwise.
 
+## Critical Hits
+
+The campaign uses a **max + roll** critical-hit rule instead of the normal 2014 doubled-dice method.
+
+When an attack scores a critical hit:
+
+- determine the damage dice that would normally be doubled by the critical;
+- **maximize one set of those dice**;
+- **roll the other set normally**;
+- add static damage modifiers only once, as normal.
+
+For example, a normal hit of **1d8 + 4** becomes **1d8 + 8 + 4** on a critical hit.
+
+Any additional damage dice that are part of the critical, such as Sneak Attack or Divine Smite dice, follow the same max-one-set-plus-roll-one-set method.
+
 ## Optional Combat Rules
 
 - **Flanking:** used.
