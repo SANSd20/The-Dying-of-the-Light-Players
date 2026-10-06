@@ -91,6 +91,11 @@ Official material from later 5e books may still be used when it is intentionally
 
 In particular, D&D Beyond can sometimes display 2024 mechanics on otherwise 2014 characters. If a sheet shows something unexpected, check with the DM rather than assuming the newer version applies.
 
+## Guide Pages
+
+- [The Story So Far](story-so-far.md)
+- [Character Creation](character-creation.md)
+
 ## Before Session 1
 
 The campaign has not yet begun. Characters other than returning survivor Ida should not be assumed to have met, joined a party, or participated in campaign events until those things actually happen in play.
