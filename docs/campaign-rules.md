@@ -44,6 +44,10 @@ The campaign uses the 2014 **Variant: Encumbrance** rules.
 
 Track carried weight and the applicable encumbrance thresholds.
 
+## Alignment
+
+No campaign-wide alignment restriction or house rule has been established. Individual characters may record their chosen alignment, but no additional campaign policy is currently in effect.
+
 ## Character Sources
 
 Character options use official 2014-era D&D 5e material appropriate to the Forgotten Realms.
