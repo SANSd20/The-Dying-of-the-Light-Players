@@ -63,6 +63,10 @@ Track carried weight and the applicable encumbrance thresholds.
 
 No campaign-wide alignment restriction or house rule has been established. Individual characters may record their chosen alignment, but no additional campaign policy is currently in effect.
 
+## Tasha's Optional Class Features
+
+The **Optional Class Features** from *Tasha's Cauldron of Everything* are allowed.
+
 ## Character Sources
 
 Character options use official 2014-era D&D 5e material appropriate to the Forgotten Realms.
