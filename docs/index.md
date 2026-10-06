@@ -92,6 +92,7 @@ In particular, D&D Beyond can sometimes display 2024 mechanics on otherwise 2014
 - [Character Creation](character-creation.md)
 - [Player Characters](player-characters.md)
 - [Campaign Rules](campaign-rules.md)
+- [Campaign Recaps](recaps.md)
 
 ## Campaign Status
 
