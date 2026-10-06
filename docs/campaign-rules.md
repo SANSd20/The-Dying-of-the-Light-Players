@@ -44,6 +44,12 @@ The campaign uses the 2014 **Variant: Encumbrance** rules.
 
 Track carried weight and the applicable encumbrance thresholds.
 
+## Optional Combat Rules
+
+- **Flanking:** used.
+- **Facing:** not used.
+- Other optional combat actions/rules such as Disarm, Overrun, Shove Aside, Tumble, Mark, and Cleaving Through Creatures have **not yet been established** for this campaign.
+
 ## Alignment
 
 No campaign-wide alignment restriction or house rule has been established. Individual characters may record their chosen alignment, but no additional campaign policy is currently in effect.
