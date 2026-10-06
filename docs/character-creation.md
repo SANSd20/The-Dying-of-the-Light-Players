@@ -31,6 +31,16 @@ If you are unsure whether a D&D Beyond option comes from an approved source, ask
 
 Use **point buy** for ability scores.
 
+## Starting Equipment
+
+Because characters begin at 5th level, use the campaign's higher-level starting equipment package:
+
+- normal class and background starting equipment;
+- **500 gp + 1d10 × 25 gp**;
+- **one uncommon magic item of the player's choice**.
+
+The chosen uncommon magic item should be compatible with the campaign's allowed 2014-era Forgotten Realms material.
+
 ## Hit Points and Encumbrance
 
 - **Do not roll for hit points when gaining levels.** Use the fixed hit-point increase for the character's class instead.
