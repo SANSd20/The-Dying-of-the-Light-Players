@@ -27,6 +27,11 @@ Characters begin at **5th level** and use the **2014 D&D 5th Edition rules basel
 
 If you are unsure whether a D&D Beyond option comes from an approved source, ask the DM.
 
+## Feats and Multiclassing
+
+- **Feats are allowed.**
+- **Multiclassing is allowed.**
+
 ## Ability Scores
 
 Use **point buy** for ability scores.
