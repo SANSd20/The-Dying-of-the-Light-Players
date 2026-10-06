@@ -48,6 +48,10 @@ The campaign uses the 2014 **Variant: Encumbrance** rules.
 
 Track carried weight and the applicable encumbrance thresholds.
 
+## Inspiration
+
+The campaign uses the normal **2014 Inspiration rules**.
+
 ## Rests
 
 The campaign uses the normal **2014 rest rules**:
