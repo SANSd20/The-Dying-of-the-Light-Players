@@ -35,15 +35,13 @@ Pip's conversion to the campaign's 2014 rules baseline is still being finalized.
 
 Ko'Maru is a quiet, protective follower of Eldath who prefers peaceful solutions but will fight to defend others.
 
-He previously adventured briefly with Lia in Blue Alley and knows the rest of her companions primarily by reputation.
-
-Ko'Maru uses the Tortle mechanics from *Mordenkainen Presents: Monsters of the Multiverse*.
+Ko'Maru uses the Tortle mechanics from *Mordenkainen Presents: Monsters of the Multiverse*. Personal motivations, relationships, and unrevealed backstory are intentionally omitted from this shared guide.
 
 ## Gilly
 
 **Tiefling Ranger 5 — Beast Master — Farmer**
 
-Gilly is a pre-campaign character whose personal history, motivations, campaign connections, and some character-sheet details are still being developed.
+Gilly is a pre-campaign character. Personal history, motivations, relationships, and unrevealed backstory are intentionally omitted from this shared guide.
 
 Some current sheet entries may come from D&D Beyond's 2024 rules presentation and are still under review against the campaign's 2014 baseline.
 
@@ -53,4 +51,4 @@ A new player is joining the table. Their character is currently being created. O
 
 ---
 
-Character descriptions here are limited to player-safe, established information. Unresolved character choices remain with the players.
+Character descriptions here are limited to information appropriate for the whole table. Player-specific motivations, secrets, private relationships, and unrevealed backstory stay private until the player reveals them in play or approves them for the shared guide. Unresolved character choices remain with the players.
